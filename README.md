@@ -1,5 +1,6 @@
 ### Hey! 👋
-I'm Rafael Vilomar
+I'm currently working on varius projects to 369lab 
+![Alt text](/images/369lab.png)
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
