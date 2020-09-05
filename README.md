@@ -9,7 +9,7 @@ I'm currently working on varius projects to **369lab**
  #### Find me
  ![Alt text](/images/linkedin.png)
  ![Alt text](/images/instagram.png)
- ![Alt Text](RafaelVilomar/images/facebook.png)
+ ![Alt Text](/images/facebook.png)
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
