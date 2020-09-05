@@ -1,10 +1,10 @@
 ### Hey! 👋
-:mortar_board: I'm currently working on varius projects to
+:computer: I'm currently working on varius projects to
 ![369 lab](/images/369lab.png) like:
 * VYR-X
 * 369lab
 
- I'm learning about React and TypeScript
+:mortar_board: I'm learning about React and TypeScript
  
  #### Find me
  [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/rafael-vilomar-165536174/)
