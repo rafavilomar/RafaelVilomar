@@ -1,6 +1,15 @@
 ### Hey! 👋
-I'm currently working on varius projects to 369lab 
-![Alt text](/images/369lab.png)
+I'm currently working on varius projects to **369lab**
+![Alt text](/images/369lab.png) like:
+* VYR-X
+* 369lab
+
+ I'm learning about React and TypeScript
+ 
+ #### Find me
+ ![Alt text](/images/linkedin.png)
+ ![Alt text](/images/instagram.png)
+ ![https://www.facebook.com/rafaelenrique.vilomarmontero/](/images/facebook.png)
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
