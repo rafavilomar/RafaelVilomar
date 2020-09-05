@@ -1,15 +1,15 @@
 ### Hey! 👋
-I'm currently working on varius projects to **369lab**
-![Alt text](/images/369lab.png) like:
+:mortar_board: I'm currently working on varius projects to
+![369 lab](/images/369lab.png) like:
 * VYR-X
 * 369lab
 
  I'm learning about React and TypeScript
  
  #### Find me
- [![Alt text](/images/linkedin.png)](https://www.linkedin.com/in/rafael-vilomar-165536174/)
- [![Alt text](/images/instagram.png)](https://www.instagram.com/rafavilomar/)
- [![Alt Text](/images/facebook.png)](https://www.facebook.com/rafaelenrique.vilomarmontero/)
+ [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/rafael-vilomar-165536174/)
+ [![Instagram](/images/instagram.png)](https://www.instagram.com/rafavilomar/)
+ [![Facebook](/images/facebook.png)](https://www.facebook.com/rafaelenrique.vilomarmontero/)
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
