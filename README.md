@@ -1,11 +1,14 @@
 ### Hey! 👋
+---
 :computer: I'm currently working on varius projects to
  <img src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/369lab.png"/> like:
 * VYR-X
 * 369lab
 
 :mortar_board: I'm learning about React and TypeScript
- 
+
+---
+
  #### Find me
  [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
   [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/instagram.png"/>](https://www.instagram.com/rafavilomar/)
