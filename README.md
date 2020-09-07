@@ -1,6 +1,6 @@
 ### Hey! 👋
 :computer: I'm currently working on varius projects to
-![369 lab](/images/369lab.png) like:
+ <img src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/369lab.png"/> like:
 * VYR-X
 * 369lab
 
@@ -8,9 +8,9 @@
  
  #### Find me
  [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
- [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/rafael-vilomar-165536174/)
- [![Instagram](/images/instagram.png)](https://www.instagram.com/rafavilomar/)
- [![Facebook](/images/facebook.png)](https://www.facebook.com/rafaelenrique.vilomarmontero/)
+  [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/instagram.png"/>](https://www.instagram.com/rafavilomar/)
+   [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/twitter.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
+    [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/facebook.png"/>](https://www.facebook.com/rafaelenrique.vilomarmontero/)
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
