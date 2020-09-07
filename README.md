@@ -7,7 +7,7 @@
 :mortar_board: I'm learning about React and TypeScript
  
  #### Find me
- <img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/linkedin.png"/>[Linkedin]
+ [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
  [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/rafael-vilomar-165536174/)
  [![Instagram](/images/instagram.png)](https://www.instagram.com/rafavilomar/)
  [![Facebook](/images/facebook.png)](https://www.facebook.com/rafaelenrique.vilomarmontero/)
