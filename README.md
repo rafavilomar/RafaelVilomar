@@ -1,19 +1,65 @@
-### Hey! 👋
----
-:computer: I'm currently working on varius projects to
- <img src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/369lab.png"/> like:
-* VYR-X
-* 369lab
 
-:mortar_board: I'm learning about React and TypeScript
+## Hey!
 
----
+#### 👨🏻‍💻 &nbsp;About Me
 
- #### Find me
- [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
-  [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/instagram.png"/>](https://www.instagram.com/rafavilomar/)
-   [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/twitter.png"/>](https://www.linkedin.com/in/rafael-vilomar-165536174/)
-    [<img alt="https://www.linkedin.com/in/rafael-vilomar-165536174/" src="https://github.com/RafaelVilomar/RafaelVilomar/blob/master/images/facebook.png"/>](https://www.facebook.com/rafaelenrique.vilomarmontero/)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Software Development at Instituto Tecnológico de Las Américas (ITLA).
+- 💼 &nbsp; Working as a external Web Developer at 369Labs.
+- 🌱 &nbsp; Learning more about Microservice Architecture, React, UI and UX.
+- 📫 &nbsp; Contact me rafaelvm2707@gmail.com
+<!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
+
+#### 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
+  <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
+  ![C#](https://img.shields.io/badge/-C_Sharp-A8B9CC?style=flat&logo=C&logoColor=000000)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=ffffff)
+  <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)-->
+  ![React.js](https://img.shields.io/badge/-React_js-61DAFB?style=flat&logo=react&logoColor=000000)
+  ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=React-Router&logoColor=ffffff)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
+  ![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=ffffff)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=ffffff)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=ffffff)
+  ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=ffffff)
+  ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=Atom&logoColor=ffffff)
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-2C2255?style=flat&logo=Eclipse-IDE&logoColor=ffffff)
+<!-- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafavilomar&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavilomar&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
+<a href="https://www.linkedin.com/in/rafael-vilomar-165536174/"><img alt="LinkedIn" src="http://img.shields.io/badge/LinkedIn-Rafael%20Vilomar-black?style=flat-square&logo=LinkedIn&labelColor=0077B5&logoColor=ffffff"></a>
+<!--<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>-->
+<a href="mailto:rafaelvm2707@gmail.com"><img alt="Email" src="http://img.shields.io/badge/Gmail-rafaelvm2707@gmail.com-black?style=flat-square&logo=Gmail&labelColor=D14836&logoColor=ffffff"></a>
+</p>
+
+    
 <!--
 **RafaelVilomar/RafaelVilomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
