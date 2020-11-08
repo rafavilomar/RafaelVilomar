@@ -41,9 +41,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
 
-<a target="_blank" href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafavilomar&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavilomar&theme=buefy&layout=compact" />
+<a target="_blank" href="https://github.com/rafavilomar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafavilomar&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafavilomar&layout=compact&langs_count=8&theme=react" />
 </a>
 
 #### 🤝🏻 &nbsp;Connect with Me
