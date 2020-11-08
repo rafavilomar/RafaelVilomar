@@ -16,6 +16,7 @@
   <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
   <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
   ![C#](https://img.shields.io/badge/-C_Sharp-A8B9CC?style=flat&logo=C&logoColor=000000)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
@@ -39,6 +40,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=ffffff)
   ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=Atom&logoColor=ffffff)
   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-2C2255?style=flat&logo=Eclipse-IDE&logoColor=ffffff)
+  ![NetBeans IDE](https://img.shields.io/badge/-NetBeans_IDE-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=ffffff)
 <!-- 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
