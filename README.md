@@ -21,9 +21,11 @@
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=ffffff)
+  ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=Material-UI&logoColor=ffffff)
   <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)-->
   ![React.js](https://img.shields.io/badge/-React_js-61DAFB?style=flat&logo=react&logoColor=000000)
   ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=React-Router&logoColor=ffffff)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=Gatsby&logoColor=ffffff)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
   ![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=ffffff)
