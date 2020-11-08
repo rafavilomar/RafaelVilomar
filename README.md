@@ -33,6 +33,7 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=ffffff)
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
+  ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=ffffff)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=ffffff)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=ffffff)
