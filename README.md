@@ -15,7 +15,7 @@
 - 💻 &nbsp;
   <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)-->
   <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
-  ![C#](https://img.shields.io/badge/-C_Sharp-A8B9CC?style=flat&logo=C&logoColor=000000)
+  ![C#](https://img.shields.io/badge/-C_Sharp-239120?style=flat&logo=C-Sharp&logoColor=ffffff)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
