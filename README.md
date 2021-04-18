@@ -57,7 +57,7 @@
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
 <a target="_blank" href="https://www.linkedin.com/in/rafael-vilomar-165536174/"><img alt="LinkedIn" src="http://img.shields.io/badge/LinkedIn-Rafael%20Vilomar-black?style=flat-square&logo=LinkedIn&labelColor=0077B5&logoColor=ffffff"></a>
 <!--<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>-->
-<a target="_blank" href="mailto:rafaelvm2707@gmail.com"><img alt="Email" src="http://img.shields.io/badge/Gmail-rafaelvm2707@gmail.com-black?style=flat-square&logo=Gmail&labelColor=D14836&logoColor=ffffff"></a>
+<a target="_blank" href="mailto:rafaelvm2707@gmail.com"><img alt="Email" src="http://img.shields.io/badge/Gmail-rafavilomar@gmail.com-black?style=flat-square&logo=Gmail&labelColor=D14836&logoColor=ffffff"></a>
 </p>
 
     
