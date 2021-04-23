@@ -4,9 +4,8 @@
 #### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Development at Instituto Tecnológico de Las Américas (ITLA).
-- 💼 &nbsp; Working as a external Web Developer at 369Labs.
-- 🌱 &nbsp; Learning more about Microservice Architecture, React, UI and UX.
+- 🎓 &nbsp; Studying Software Engineering at UAPA.
+- 🌱 &nbsp; Learning  React, UI and UX.
 - 📫 &nbsp; Contact me rafavilomar@gmail.com
 <!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
