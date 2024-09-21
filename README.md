@@ -43,7 +43,6 @@
 #### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/rafael-vilomar-165536174/"><img alt="LinkedIn" src="http://img.shields.io/badge/LinkedIn-rafavilomar-black?style=flat-square&logo=LinkedIn&labelColor=0077B5&logoColor=ffffff"></a>
 <a target="_blank" href="mailto:rafavilomar@gmail.com"><img alt="Email" src="http://img.shields.io/badge/Gmail-rafavilomar@gmail.com-black?style=flat-square&logo=Gmail&labelColor=D14836&logoColor=ffffff"></a>
 </p>
 
